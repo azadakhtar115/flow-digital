@@ -1,0 +1,41 @@
+body[data-sidebar=dark] .navbar-brand-box{background-color: #fff !important;}
+a{color: #556ee6 ;}
+.head_title{padding:calc(32px / 2) 0;}
+/* .app-search .form-control{border-radius: 4px !important;border: 1px solid #556ee6 !important;background-color: #fff !important;}  */
+/* .bx-search-alt:before{color: #556ee6;} */
+.left_side{background-color: #556ee6;color: #fff;}
+.right_side{background-color: #f8f8fb;color: #000;padding: 170px;z-index: 1;}
+.start h1{color: #000; font-family: 'Poppins',Medium;font-size: 34px;}
+.start p{color: #797c80; font-size: 16px; font-family: 'Lato',Medium;}
+.select_role ul{padding-left: 0px;width: 478px;}
+.select_role ul li{list-style: none;padding: 16px 20px;background: #fff;margin-bottom: 16px;}
+.select_role ul li:hover{background-color: #556ee6;color: #fff;}
+.select_role ul li a:hover{color: #fff;}
+.select_role ul li a i{font-size: 26px;}
+.select_role ul li a h5{font-size: 20px;font-family: 'lato',Bold;}
+.select_role ul li a p{font-size: 12px;font-family: 'lato',Semibold;}
+.left_side .logo img{width: 150px;}
+.left_side .bottom_img img{z-index: 999999;position: relative;width: 600px;margin-top: 122px;height: auto;}
+.left_side .login .logo img{width: 80px;}
+.login-form{width: 460px;}
+.right_side_login .back{font-size: 16px;font-family: 'Lato';}
+.right_side_login .back p a i{font-size: 18px;font-weight: 600;}
+.login_title h1{color: #000;font-family: 'Poppins',Medium;font-size: 36px;}
+.login_title p{color: #797c80;font-size: 16px; font-family: 'lato',Semibold;}
+.right_side_login{background-color: #fff;color: #000;padding: 165px;z-index: 1;}
+.login-form .input_bottom input{width: 100%; border: none;font-size: 14px;border-bottom: 1px solid #A6B0CF;margin-bottom: 40px;padding: 0 0 20px;border-radius: 0px;transition: .3s linear;
+    background-color: #fff !important;}
+.login-form .input_bottom input:hover{border-bottom: 1px solid #556ee6;}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */color: #A6B0CF;font-size: 16px;}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */color: #A6B0CF;font-size: 16px;}
+::-ms-input-placeholder { /* Microsoft Edge */color: #A6B0CF;font-size: 16px;}
+.login-form .form-check .form-check-label{font-weight: 400 !important;font-size: 14px;font-family: 'Lato';}
+.box .box_arrow{font-size: 20px;color: #556ee6;font-weight: 800;}
+.btn-new{border:1px dotted !important ;}
+.active_menu i {font-size: 7px !important;vertical-align: middle;min-width: 1rem !important;}
+body[data-sidebar=dark] #sidebar-menu ul li a{font-family: lato,Semibold;padding: .2rem 1.5rem !important;}
+.app-search ::placeholder{font-size: 12px !important;}
+.right-bar-enabled .right-bar{width:615px !important;}
+.i_am span{font-family: 'lato',Semibold;font-size: 14;}
+.i_am p{font-family: 'lato',Semibold;font-size: 14;}
+.login-form .float-end a {font-size: 14px;font-family: 'Lato';}

@@ -1,0 +1,63 @@
+/* / SMARTPHONES PORTRAIT / */
+@media  (max-width: 320px) {
+
+}
+
+/* / SMARTPHONES LANDSCAPE / */
+@media  (max-width: 480px) {
+    
+}
+@media  (min-width: 320px) and (max-width: 400px)  {
+    .left_side .bottom_img img{width: 300px;}
+}
+@media (min-width: 401px) and (max-width: 597px)  {
+    .left_side .bottom_img img{width: 400px;}
+}
+/* / SMARTPHONES LANDSCAPE / */
+@media  (max-width: 500px) {
+    .right_side{padding: 20px;}
+    .login-form{width: 100%;}
+    .select_role ul {width: 100%;}
+}
+
+/* / SMARTPHONES LANDSCAPE / */
+@media  (max-width: 680px) {
+
+}
+
+/* / TABLETS PORTRAIT / */
+@media  (min-width: 501px) and (max-width: 767px) {
+    .right_side_login{padding: 70px;}
+    .login-form{width: 100%;}
+    .right_side{padding: 70px;}
+    .select_role ul {width: 100%;}
+}
+
+/* / TABLET LANDSCAPE / DESKTOP / */
+@media  (max-width: 992px) {
+
+}
+
+
+/* / TABLET LANDSCAPE / DESKTOP / */
+@media  (max-width: 1024px) {
+
+}
+
+/* / TABLET LANDSCAPE / DESKTOP / */
+@media  (max-width: 1600px) {
+ 
+}
+/* / LARGE SCREEN / DESKTOP / */
+@media (max-width: 1920px)  {
+    
+
+}
+
+@media  (max-width: 2560px) {
+   
+}
+/* / EXTRA LARGE SCREEN / DESKTOP / */
+@media (min-width: 2561px) and (max-width: 4000px)  {
+    
+}
